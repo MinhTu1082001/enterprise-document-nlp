@@ -1,0 +1,16 @@
+HỢP ĐỒNG DỊCH VỤ BẢO TRÌ HỆ THỐNG (bản rút gọn dùng cho demo, theo tình huống 5.3 của báo cáo)
+
+Điều 1. Thanh toán
+Bên A thanh toán cho Bên B trong vòng 30 ngày kể từ ngày Bên A nhận đủ hồ sơ thanh toán theo Điều 2.
+
+Điều 2. Hồ sơ thanh toán
+Hồ sơ thanh toán đầy đủ gồm biên bản nghiệm thu có chữ ký của hai bên và hóa đơn giá trị gia tăng hợp lệ.
+
+Điều 3. Tạm dừng thời hạn thanh toán
+Nếu có tranh chấp về chất lượng dịch vụ, thời hạn thanh toán tại Điều 1 được tạm dừng cho đến khi tranh chấp được giải quyết bằng văn bản.
+
+Điều 4. Thông tin hạn chế
+Đơn giá của một lượt bảo trì là thông tin nội bộ hạn chế, chỉ bộ phận tài chính của hai bên được biết.
+
+Phụ lục 1. Giá trị hợp đồng
+Tổng giá trị hợp đồng là 600.000.000 đồng cho 400 lượt bảo trì trong 12 tháng.
